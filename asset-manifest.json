@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tutorial-vue/static/css/main.07e274de.css",
+    "main.js": "/tutorial-vue/static/js/main.d554909a.js",
+    "index.html": "/tutorial-vue/index.html",
+    "main.07e274de.css.map": "/tutorial-vue/static/css/main.07e274de.css.map",
+    "main.d554909a.js.map": "/tutorial-vue/static/js/main.d554909a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e274de.css",
+    "static/js/main.d554909a.js"
+  ]
+}
